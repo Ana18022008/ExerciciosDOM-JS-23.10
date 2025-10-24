@@ -1,0 +1,62 @@
+/* ATIVIDADE 01
+
+
+div{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    gap:10px;
+button{
+width: 30px;
+height: 30px;
+}
+
+#diminuir{
+      border-radius: 3px;
+}
+
+#diminuir:active{
+background-color: rgba(255, 0, 0, 0.527);
+}
+
+#aumentar{
+    border-radius: 3px;
+}
+
+#aumentar:active{
+    background-color: rgba(14, 121, 49, 0.527);
+}
+}
+*/
+
+/* ATIVIDADE 02
+#texto{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    width: 500px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+#botoes{
+    width: 500px;
+    display: flex;
+    justify-items: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    width: 100px;
+}
+
+button:hover{
+    background-color: rgba(155, 54, 155, 0.726);
+}
+*/
